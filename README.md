@@ -44,19 +44,19 @@
 ### Implementation
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-| 1  | [Grading Students](https://www.hackerrank.com/challenges/grading)| <ul><li>[Java](./Algorithms/Implementation/Grading%20Students/Solution.java)</li> <ul> | _O(n)_ | _O(1)_ | Easy| 10| ||
-|  2 | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange)| <ul><li>[Java](./Algorithms/Implementation/Apple%20and%20Orange/Solution.java)</li> <ul> | _O(n+m)_ | _O(1)_ | Easy| 10| ||
-| 3  | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo)| <ul><li>[Java](./Algorithms/Implementation/Kangaroo/Solution.java)</li><ul> | _O(1)_ | _O(1)_ | Easy| 10| ||
-|  4 | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets)| <ul><li>[Java](./Algorithms/Implementation/Between%20Two%20Sets/Solution.java)</li> <ul> | _O(x(n+m))_ | _O(1)_ | Easy| 10|  _x=(max(m) - min(n))/min(n)_ ||
-|  5 | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)| <ul><li>[Java](./Algorithms/Implementation/Divisible%20Sum%20Pairs/Solution.java)</li><ul> | _O(n^2)_ | _O(1)_ | Easy| 10| ||
-| 6  | [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar)| <ul><li>[Java](./Algorithms/Implementation/Birthday%20Chocolate/Solution.java)</li> <ul> | _O(n)_ | _O(1)_ | Easy| 10| ||
-| 7  | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records)| <ul><li>[Java](./Algorithms/Implementation/Breaking%20the%20Records/Solution.java)</li> <ul> | _O(n)_ | _O(1)_ | Easy| 10| ||
-|  8 | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds)| <ul><li>[Java](./Algorithms/Implementation/Migratory%20Birds/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy| 10| ||
-|  9 | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer)| <ul><li>[Java](./Algorithms/Implementation/Day%20Of%20The%20Programmer/Solution.java)</li><ul> | _O(1)_ | _O(1)_ | Easy| 15| ||
+| 1   | [Grading Students](https://www.hackerrank.com/challenges/grading)| <ul><li>[Java](./Algorithms/Implementation/Grading%20Students/Solution.java)</li> <ul> | _O(n)_ | _O(1)_ | Easy| 10| ||
+| 2   | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange)| <ul><li>[Java](./Algorithms/Implementation/Apple%20and%20Orange/Solution.java)</li> <ul> | _O(n+m)_ | _O(1)_ | Easy| 10| ||
+| 3   | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo)| <ul><li>[Java](./Algorithms/Implementation/Kangaroo/Solution.java)</li><ul> | _O(1)_ | _O(1)_ | Easy| 10| ||
+| 4   | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets)| <ul><li>[Java](./Algorithms/Implementation/Between%20Two%20Sets/Solution.java)</li> <ul> | _O(x(n+m))_ | _O(1)_ | Easy| 10|  _x=(max(m) - min(n))/min(n)_ ||
+| 5   | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)| <ul><li>[Java](./Algorithms/Implementation/Divisible%20Sum%20Pairs/Solution.java)</li><ul> | _O(n^2)_ | _O(1)_ | Easy| 10| ||
+| 6   | [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar)| <ul><li>[Java](./Algorithms/Implementation/Birthday%20Chocolate/Solution.java)</li> <ul> | _O(n)_ | _O(1)_ | Easy| 10| ||
+| 7   | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records)| <ul><li>[Java](./Algorithms/Implementation/Breaking%20the%20Records/Solution.java)</li> <ul> | _O(n)_ | _O(1)_ | Easy| 10| ||
+| 8   | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds)| <ul><li>[Java](./Algorithms/Implementation/Migratory%20Birds/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy| 10| ||
+| 9   | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer)| <ul><li>[Java](./Algorithms/Implementation/Day%20Of%20The%20Programmer/Solution.java)</li><ul> | _O(1)_ | _O(1)_ | Easy| 15| ||
 | 10  | [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit)| <ul><li>[Java](./Algorithms/Implementation/Bon%20Appetit/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy| 10| ||
 | 11  | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)| <ul><li>[Java](./Algorithms/Implementation/Sock%20Merchant/Solution.java)</li> <ul> | _O(n)_ | _O(n)_ | Easy| 10| ||
 | 12  | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book)| <ul><li>[Java](./Algorithms/Implementation/Drawing%20Book/Solution.java)</li><ul> | _O(1)_ | _O(1)_ | Easy| 10| ||
-|  13 | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys)| <ul><li>[Java](./Algorithms/Implementation/Counting%20Valleys/Solution.java)</li> <ul> | _O(n)_ | _O(1)_ | Easy| 15| ||
+| 13  | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys)| <ul><li>[Java](./Algorithms/Implementation/Counting%20Valleys/Solution.java)</li> <ul> | _O(n)_ | _O(1)_ | Easy| 15| ||
 | 14  | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse)| <ul><li>[Java](./Algorithms/Implementation/Cats%20and%20a%20Mouse/Solution.java)</li> <ul> | _O(1)_ | _O(1)_ | Easy| 15| ||
 | 15  | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop)| <ul><li>[Java](./Algorithms/Implementation/Electronics%20Shop/Solution.java)</li> <ul> | _O(n log (n))_ | _O(1)_ | Easy| 15| n = m+n||	
 | 16  | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers)| <ul><li>[Java](./Algorithms/Implementation/Picking%20Numbers/Solution.java)</li> <ul> | _O(n)_ | _O(n)_ | Easy| 20| ||
@@ -66,14 +66,14 @@
 | 20  | [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming)| <ul><li>[Java](./Algorithms/Implementation/Forming%20a%20Magic%20Square/Solution.java)</li><ul> | _O(1)_ | _O(1)_ | Easy| 20| ||
 | 21  | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree)| <ul><li>[Java](./Algorithms/Implementation/Utopian%20Tree/Solution.java)</li> <ul> | _O(n)_ | _O(1)_ | Easy | 20| ||
 | 22  | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor)| <ul><li>[Java](./Algorithms/Implementation/Angry%20Professor/Solution.java)</li> <ul> | _O(n)_ | _O(1)_ | Easy | 20| ||
-|  23 | [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies)| <ul><li>[Java](./Algorithms/Implementation/Beautiful%20Days%20at%20the%20Movies/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 15| ||
+| 23  | [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies)| <ul><li>[Java](./Algorithms/Implementation/Beautiful%20Days%20at%20the%20Movies/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 15| ||
 | 24  | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising)| <ul><li>[Java](./Algorithms/Implementation/Viral%20Advertising/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 15| ||
 | 25  | [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner)| <ul><li>[Java](./Algorithms/Implementation/Save%20the%20Prisoner!/Solution.java)</li><ul> | _O(1)_ | _O(1)_ | Easy | 15| ||
-|  26 | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation)| <ul><li>[Java](./Algorithms/Implementation/Circular%20Array%20Rotation/Solution.java)</li> <ul> | _O(n)_ | _O(1)_ | Easy | 20| ||
-|27   | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation)| <ul><li>[Java](./Algorithms/Implementation/Sequence%20Equation/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 20| ||
-|28   | [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited)| <ul><li>[Java](./Algorithms/Implementation/Jumping%20on%20the%20Clouds-%20Revisited/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 15| ||
-|29   | [Find Digits](https://www.hackerrank.com/challenges/find-digits)| <ul><li>[Java](./Algorithms/Implementation/Find%20Digits/Solution.java)</li> <ul> | _O(n)_ | _O(1)_ | Easy | 25| ||
-|30   | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials)| <ul><li>[Java](./Algorithms/Implementation/Extra%20Long%20Factorials/Solution.java)</li> <ul> | _O(n)_ | _O(1)_ | Medium | 20| ||
+| 26  | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation)| <ul><li>[Java](./Algorithms/Implementation/Circular%20Array%20Rotation/Solution.java)</li> <ul> | _O(n)_ | _O(1)_ | Easy | 20| ||
+| 27  | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation)| <ul><li>[Java](./Algorithms/Implementation/Sequence%20Equation/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 20| ||
+| 28  | [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited)| <ul><li>[Java](./Algorithms/Implementation/Jumping%20on%20the%20Clouds-%20Revisited/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 15| ||
+| 29  | [Find Digits](https://www.hackerrank.com/challenges/find-digits)| <ul><li>[Java](./Algorithms/Implementation/Find%20Digits/Solution.java)</li> <ul> | _O(n)_ | _O(1)_ | Easy | 25| ||
+| 30  | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials)| <ul><li>[Java](./Algorithms/Implementation/Extra%20Long%20Factorials/Solution.java)</li> <ul> | _O(n)_ | _O(1)_ | Medium | 20| ||
 | 31  | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete)| <ul><li>[Java](./Algorithms/Implementation/Append%20and%20Delete/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 20| ||
 | 32  | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares)| <ul><li>[Java](./Algorithms/Implementation/Sherlock%20and%20Squares/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 20| ||
 |  33 | [Library Fine](https://www.hackerrank.com/challenges/library-fine)| <ul><li>[Java](./Algorithms/Implementation/Library%20Fine/Solution.java)</li> <ul> | _O(1)_ | _O(1)_ | Easy| 15| ||
@@ -84,6 +84,9 @@
 | 38  | [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array)| <ul><li>[Java](./Algorithms/Implementation/Equalize%20the%20Array/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 20| ||
 | 39  | [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2)| <ul><li>[Java](./Algorithms/Implementation/Queen's%20Attack%20II/Solution.java)</li><ul> | _O(k)_ | _O(1)_ | Medium | 30| ||
 | 40  | [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team)| <ul><li>[Java](./Algorithms/Implementation/ACM%20ICPC%20Team/Solution.java)</li><ul> | _O(n^3)_ | _O(n)_ | Easy | 25| ||
-|  41 | [Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday)| <ul><li>[Java](./Algorithms/Implementation/Taum%20and%20B'day/Solution.java)</li><ul> | _O(1)_ | _O(1)_ | Easy | 25| ||
-|  42 | [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls)| <ul><li>[Java](./Algorithms/Implementation/Organizing%20Containers%20of%20Balls/Solution.java)</li><ul> | _O(n^2)_ | _O(n^2)_ | Medium | 30| ||
+| 41  | [Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday)| <ul><li>[Java](./Algorithms/Implementation/Taum%20and%20B'day/Solution.java)</li><ul> | _O(1)_ | _O(1)_ | Easy | 25| ||
+| 42  | [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls)| <ul><li>[Java](./Algorithms/Implementation/Organizing%20Containers%20of%20Balls/Solution.java)</li><ul> | _O(n^2)_ | _O(n^2)_ | Medium | 30| ||
 | 43  | [Encryption](https://www.hackerrank.com/challenges/encryption)| <ul><li>[Java](./Algorithms/Implementation/Encryption/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Medium | 30| ||
+| 44  | [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater)| <ul><li>[Java](./Algorithms/Implementation/Bigger%20is%20Greater/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Medium | 35| ||
+| 45  | [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers)| <ul><li>[Java](./Algorithms/Implementation/Modified%20Kaprekar%20Numbers/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 30| ||
+| 46  | [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets)|<ul><li>[Java](./Algorithms/Implementation/Beautiful%20Triplets]/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 20| ||
