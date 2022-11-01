@@ -5,9 +5,7 @@
 <p align="center">
     Solutions to problems on HackerRank.
 </p>
-<p align="center">
-	Check out HackerRank's new format <a href="./README_V2.md">here</a>
-</p>
+
 <p align="center">
 	If you are interested in helping or have a solution in a different language feel free to make a pull request.
 </p>
