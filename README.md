@@ -90,3 +90,6 @@
 | 44  | [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater)| <ul><li>[Java](./Algorithms/Implementation/Bigger%20is%20Greater/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Medium | 35| ||
 | 45  | [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers)| <ul><li>[Java](./Algorithms/Implementation/Modified%20Kaprekar%20Numbers/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 30| ||
 | 46  | [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets)|<ul><li>[Java](./Algorithms/Implementation/Beautiful%20Triplets]/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 20| ||
+| 47  | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances)|<ul><li>[Java](./Algorithms/Implementation/Minimum%20Distances]/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 20| ||
+| 48  | [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale)|<ul><li>[Java](./Algorithms/Implementation/Halloween%20Sale]/Solution.java)</li><ul>| _O(n)_ | _O(n)_ | Easy | 20| ||
+| 49  | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words)|<ul><li>[Java](./Algorithms/Implementation/The%20Time%20in%20Words]/Solution.java)</li><ul>| _O(1)_ | _O(1)_ | Medium | 25| ||
