@@ -1,18 +1,18 @@
 [CopyrightLicense]:./license.md
 <p align="center">
-	<a href="https://www.hackerrank.com/ryanfehr18"><img src="https://cloud.githubusercontent.com/assets/19765741/25342064/d17a563c-28d8-11e7-83fc-763d4ab4820a.jpg" ></a>
+	<a href="https://www.hackerrank.com/zarminaishtiaq"><img src="https://cloud.githubusercontent.com/assets/19765741/25342064/d17a563c-28d8-11e7-83fc-763d4ab4820a.jpg" ></a>
 </p>
 <p align="center">
-    Solutions to problems on HackerRank.
+   Java Solutions to problems on HackerRank.
 </p>
 
 <p align="center">
 	If you are interested in helping or have a solution in a different language feel free to make a pull request.
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-49-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-50-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-11/01/2022-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-11/03/2022-brightgreen.svg">
 </p>
 
 
@@ -93,3 +93,5 @@
 | 47  | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances)|<ul><li>[Java](./Algorithms/Implementation/Minimum%20Distances]/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 20| ||
 | 48  | [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale)|<ul><li>[Java](./Algorithms/Implementation/Halloween%20Sale]/Solution.java)</li><ul>| _O(n)_ | _O(n)_ | Easy | 20| ||
 | 49  | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words)|<ul><li>[Java](./Algorithms/Implementation/The%20Time%20in%20Words]/Solution.java)</li><ul>| _O(1)_ | _O(1)_ | Medium | 25| ||
+| 50  | [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast)|<ul><li>[Java](./Algorithms/Implementation/Chocolate%20Feast]/Solution.java)</li><ul>|_O(log(n))_| _O(1)_ | Easy | 25| |	Base of logarithmic time complexity is m|
+| 51  | [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/)|<ul><li>[Java](./Algorithms/Implementation/Lisa's%20Workbook]/Solution.java)</li><ul>|_o(n)_|_O(n)_| Easy |25||
